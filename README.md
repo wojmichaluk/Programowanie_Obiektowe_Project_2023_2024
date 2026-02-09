@@ -1,5 +1,5 @@
 # Programowanie_Obiektowe_Project_2023_2024
-Repository for project on Programowanie Obiektowe (Object Oriented Programming) course at AGH University
+### Repository for project on Programowanie Obiektowe (Object Oriented Programming) course at AGH University
 
 Katalog **projekt** zawiera pliki z oryginalnego repozytorium stworzonego przez [kolegę](https://github.com/michal-proc), z którym wspólnie robiłem ten projekt. 
 Niestety, w wyniku reorganizacji i porządkowania repozytoriów na GitHubie jego oryginalna postać zaginęła (jest w zmienionej formie pod tym [adresem](https://github.com/michal-proc/darwin-world)).
